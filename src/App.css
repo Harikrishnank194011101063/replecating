@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+textarea{
+height: 200px;
+width: 200px;
+
+}
+
+.box{
+  padding-left: 300px;
+  padding-top: 150px;
+  display: flex;
+  column-gap: 100px;
+}
+body{
+background-image: url('https://th.bing.com/th/id/OIP.aYj8J0RyWwf-D9YMCD9oiAHaE8?pid=ImgDet&rs=1.jpg');
+background-size: cover;
+
+}
